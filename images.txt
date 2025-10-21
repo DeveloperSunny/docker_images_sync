@@ -1,1 +1,1 @@
---platform linux/arm64 bitnami/node:20.18.0
+bitnami/kibana:7.17.13
