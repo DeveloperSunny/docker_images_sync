@@ -1,1 +1,1 @@
-bitnami/kibana:7.17.13
+kibana:7.17.13
